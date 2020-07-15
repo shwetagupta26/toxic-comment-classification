@@ -2,7 +2,7 @@
 
 This challenge was posted in Kaggle by Jigsaw in collaboration with Google’s Alphabet. The reason I chose this dataset is to classify and remove or block rude comments online. All the comments were drawn from Wikipedia talk page where people can post their opinions and experiences online. By implementation of this project, we can reduce online harassment to provide freedom to post publicly.
 
-## Over View 
+## Overview 
 
 The Aim of the project is to Build a model that is capable of correctly classifying comments into 6 categories based on level of toxicity. It is a multi label classification problem i.e. one comment can be classified in more than one category. The area of focus is to study the negative online behaviors, like toxic comments (i.e. comments that are rude, disrespectful or otherwise likely to make someone leave a discussion)
 
@@ -12,7 +12,7 @@ Text Mining\
 Feature Extraction\
 Classification
 
-## Dataset Info ##
+## Dataset Info
 
 Source: Kaggle
 About Data: Large number of Wikipedia comments which have been labeled by human raters for toxic behavior
