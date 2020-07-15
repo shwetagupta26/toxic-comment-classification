@@ -1,4 +1,4 @@
-# Toxic Comment Classification#
+# Toxic Comment Classification
 
 This challenge was posted in Kaggle by Jigsaw in collaboration with Google’s Alphabet. The reason I chose this dataset is to classify and remove or block rude comments online. All the comments were drawn from Wikipedia talk page where people can post their opinions and experiences online. By implementation of this project, we can reduce online harassment to provide freedom to post publicly.
 
@@ -27,7 +27,7 @@ Severe_toxic - 2\
 Obscene - 3\
 Threat - 4\
 Insult - 5\
-Identity_hate - 6\
+Identity_hate - 6
 
 ![data_summary](https://user-images.githubusercontent.com/53157141/87509374-63edf580-c63f-11ea-8954-beb9c1d7a8d6.JPG)
 
