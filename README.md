@@ -65,7 +65,7 @@ Compared models from count(CV) and TF-IDF Vectorization based on 4 model perform
 
 ![model_comparison](https://user-images.githubusercontent.com/53157141/87509706-1cb43480-c640-11ea-9e1a-56bbbceec931.png)
 
-Random forest using TF-IDF input features provides us with the best subset of performance parameters. Hence, selected random forest as the final model.
+**Random forest** using TF-IDF input features provides us with the best subset of performance parameters. Hence, selected random forest as the final model.
 
 
 ## Conclusion
